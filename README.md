@@ -13,6 +13,11 @@ A collection of 10 beginner-friendly Arduino projects with code and schematics, 
 9. [Project 9: Refrigirator alarm](https://www.tinkercad.com/things/bQE73cuySe8-refrigerator-alarm)
 10. [Project 10: Game: Fast reactions](https://www.tinkercad.com/things/hVzd8jU3Kko-game-fast-reactions)
 
+## Materials Needed
+
+All components required for each project are included in the corresponding Tinkercad circuit.  
+Simply open the project link in the [Table of Contents](#table-of-contents) to see the components and wiring for each project.
+
 ## Project Overview
 
 Each project includes:
