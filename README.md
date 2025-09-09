@@ -3,15 +3,15 @@ A collection of 10 beginner-friendly Arduino projects with code and schematics, 
 
 ## Table of Contents
 1. [Project 1: The Start](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button) ([Code](Project1/Project1.ino))
-2. [Project 2: Toggle LED with a button](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button)
-3. [Project 3: Night lamp](https://www.tinkercad.com/things/6BslVWHX9nG-blink-led-with-photoresistor)
-4. [Project 4: Control RGB LED with potentiometer](https://www.tinkercad.com/things/gH2PkpvD1QD-control-rgb-led-with-potentiometer)
-5. [Project 5: Toggle LED with button and change its brightness with potentiometer](https://www.tinkercad.com/things/9uND2DrODjI-toggle-led-with-button-and-control-brightness-with-potentiometer)
-6. [Project 6: Police light](https://www.tinkercad.com/things/iLzt2KiToaA-police-light)
-7. [Project 7: Increase and decrease LED brightness with two buttons](https://www.tinkercad.com/things/0LaAkdbXexd-increase-and-decrease-led-brightness-with-two-buttons)
-8. [Project 8: Controlling multiple LEDs with single button](https://www.tinkercad.com/things/7lIqnoiXNGO-blink-different-leds-with-one-button)
-9. [Project 9: Refrigirator alarm](https://www.tinkercad.com/things/bQE73cuySe8-refrigerator-alarm)
-10. [Project 10: Game: Fast reactions](https://www.tinkercad.com/things/hVzd8jU3Kko-game-fast-reactions)
+2. [Project 2: Toggle LED with a button](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button) ([Code](Project2/Project2.ino))
+3. [Project 3: Night lamp](https://www.tinkercad.com/things/6BslVWHX9nG-blink-led-with-photoresistor) ([Code](Project3/Project3.ino))
+4. [Project 4: Control RGB LED with potentiometer](https://www.tinkercad.com/things/gH2PkpvD1QD-control-rgb-led-with-potentiometer) ([Code](Project4/Project4.ino))
+5. [Project 5: Toggle LED with button and change its brightness with potentiometer](https://www.tinkercad.com/things/9uND2DrODjI-toggle-led-with-button-and-control-brightness-with-potentiometer) ([Code](Project5/Project5.ino))
+6. [Project 6: Police light](https://www.tinkercad.com/things/iLzt2KiToaA-police-light) ([Code](Project6/Project6.ino))
+7. [Project 7: Increase and decrease LED brightness with two buttons](https://www.tinkercad.com/things/0LaAkdbXexd-increase-and-decrease-led-brightness-with-two-buttons) ([Code](Project7/Project7.ino))
+8. [Project 8: Controlling multiple LEDs with single button](https://www.tinkercad.com/things/7lIqnoiXNGO-blink-different-leds-with-one-button) ([Code](Project8/Project8.ino))
+9. [Project 9: Refrigirator alarm](https://www.tinkercad.com/things/bQE73cuySe8-refrigerator-alarm) ([Code](Project9/Project9.ino))
+10. [Project 10: Game: Fast reactions](https://www.tinkercad.com/things/hVzd8jU3Kko-game-fast-reactions) ([Code](Project10/Project10.ino))
 
 ## Materials Needed
 
