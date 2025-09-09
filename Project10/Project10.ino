@@ -1,11 +1,11 @@
 //
-// Колко бързи са вашите реакции? В този финален проект ще направим игра,
-// в която трябва да пуснем бутона точно когато светне средният светодиод.
-// Ако успеете, ще преминете към следващото ниво. За да започнем играта,
-// трябва да натиснем и задържим бутона. Един по един, светодиодите ще 
-// започнат да примигват. Пускаме точно когато светне средният сетодиод.
-// За да преминете към следващото ниво, натискаме и задържаме бутона, 
-// докато всички светодиоди светят. Ако направим грешка, започваме от начало.
+// How fast are your reactions? In this final project, we will make a game
+// where you have to release the button exactly when the middle LED lights up.
+// If you succeed, you move to the next level. To start the game,
+// press and hold the button. One by one, the LEDs will start blinking.
+// Release exactly when the middle LED lights up.
+// To advance to the next level, press and hold the button until all LEDs light up.
+// If we make a mistake, we start over.
 //
 
 #define BTN_PIN 13
@@ -26,8 +26,8 @@ long interval = 1000;
 void loop() {
   unsigned long currentMillis = millis();
 
-  if (digitalRead(BTN_PIN) == LOW) { // btn pressed
-    // Проверява дали бутона е пуснат, докато свети светодиод 3
+  if (digitalRead(BTN_PIN) == LOW) { // button pressed
+    // Checks if the button is released while LED 3 is lit
     if (counter == 3) {
       for (byte i = 0; i < 5; i++)
         digitalWrite(leds[i], HIGH);
@@ -38,14 +38,14 @@ void loop() {
         digitalWrite(leds[i], LOW);
 
       counter = 0;
-      interval /= 1.5; // Забързване на играта (следващо ниво)
+      interval /= 1.5; // Speed up the game (next level)
     }
     else {
       for (byte i = 0; i < 5; i++)
         digitalWrite(leds[i], LOW);
 
       delay(500);
-      interval = 1000; // Отново преминаваме на ниво 1.
+      interval = 1000; // Reset to level 1
       counter = 0;
     }
   }
