@@ -5,7 +5,6 @@ int buttonState = 0;
 void setup() {
   pinMode(buttonPin, INPUT);
   pinMode(ledPin, OUTPUT);
-
 }
 
 void loop() {
