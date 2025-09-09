@@ -2,7 +2,7 @@
 A collection of 10 beginner-friendly Arduino projects with code and schematics, built by me while learning the basics.
 
 ## Table of Contents
-1. [Project 1: The Start](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button)
+1. [Project 1: The Start](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button) ([Code](Project1/Project1.ino))
 2. [Project 2: Toggle LED with a button](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button)
 3. [Project 3: Night lamp](https://www.tinkercad.com/things/6BslVWHX9nG-blink-led-with-photoresistor)
 4. [Project 4: Control RGB LED with potentiometer](https://www.tinkercad.com/things/gH2PkpvD1QD-control-rgb-led-with-potentiometer)
