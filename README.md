@@ -16,7 +16,7 @@ A collection of 10 beginner-friendly Arduino projects with code and schematics, 
 ## Materials Needed
 
 All components required for each project are included in the corresponding Tinkercad circuit.  
-Simply open the project link in the [Table of Contents](#table-of-contents) to see the components and wiring for each project.
+Click the project name in the [Table of Contents](#table-of-contents) to view the schematic and see the exact components and wiring.
 
 ## Project Overview
 
