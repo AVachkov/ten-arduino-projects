@@ -1,8 +1,6 @@
 # ten-arduino-projects
 A collection of 10 beginner-friendly Arduino projects with code and schematics, built by me while learning the basics.
 
-–––
-
 ## Table of Contents
 1. [Project 1: The Start](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button)
 2. [Project 2: Toggle LED with a button](https://www.tinkercad.com/things/79viNfgYpyG-toggle-led-with-button)
@@ -15,8 +13,6 @@ A collection of 10 beginner-friendly Arduino projects with code and schematics, 
 9. [Project 9: Refrigirator alarm](https://www.tinkercad.com/things/bQE73cuySe8-refrigerator-alarm)
 10. [Project 10: Game: Fast reactions](https://www.tinkercad.com/things/hVzd8jU3Kko-game-fast-reactions)
 
-–––
-
 ## Project Overview
 
 Each project includes:
@@ -24,8 +20,6 @@ Each project includes:
 - Arduino code (`.ino` files) 
 
 These projects cover: LEDs, buttons, sensors, buzzers, and other beginner electronics components.
-
-–––
 
 ## Getting Started
 
@@ -36,13 +30,9 @@ These projects cover: LEDs, buttons, sensors, buzzers, and other beginner electr
 5. Select the correct board and port under **Tools > Board** and **Tools > Port**.  
 6. Click **Upload** to run the project.  
 
-–––
-
 ## License
 
 This repository is licensed under [MIT License](LICENSE).  
-
-–––
 
 ## Contributing
 
